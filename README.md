@@ -4,7 +4,6 @@ Let's play with digital holograms
 [![Travis](https://travis-ci.org/LaGuer/Digital-Holography.svg?branch=master)](https://travis-ci.org/LaGuer/Digital-Holography)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/Digital-Holography/master)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaGuer/Digital-Holography/blob/master/.ipynb)
-
 <a href="https://notebooks.azure.com/import/gh/LaGuer/Digital-Holography"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 Visualization
